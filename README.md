@@ -1,0 +1,11 @@
+- 👋 Olá, meu nome é Gustavo, tenho 18 anos e moro em SP/Brasil.
+- 👀 Eu me interesso por Desenvolvimento FullStack, minha meta é dominar um pouco de tudo.
+- 🌱 Desde que iniciei em Programação tenho estudado bastante HTML, CSS e JS. Pretendo dominar essas linguagens e futuramente PHP, Bootstrap e Python.
+- 💞️ Procuro colaborar com a criação de Websites mais eficazes, rápidos, elegantes e fáceis de utilizar nas mãos dos usuários.
+- 📫 Algumas redes minhas abaixo caso queira entrar em contato!
+- <a href="https://www.instagram.com/barryzin1337/" target="_blank">Instagram</a>
+
+<!---
+Barryzin1337/Barryzin1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
