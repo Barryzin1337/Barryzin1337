@@ -5,9 +5,8 @@
 - 💞️ Procuro colaborar com a criação de Websites mais eficazes, rápidos, elegantes e fáceis de utilizar nas mãos dos usuários.
 - 📫 Algumas redes minhas abaixo caso queira entrar em contato!
 - 📧 Email: gilsongustavo20003@hotmail.com
-- 📷 <a href="https://www.instagram.com/barryzin1337/" target="_blank">Instagram</a>
 - 💼 <a href="https://www.linkedin.com/in/gilson-gustavo-gimenez-oliveira-681234203/" target="_blank">Linkedin</a>
-- 
+- 📷 <a href="https://www.instagram.com/barryzin1337/" target="_blank">Instagram</a>
 
 <!---
 Barryzin1337/Barryzin1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
