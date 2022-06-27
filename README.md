@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Gustavo, tenho 18 anos e moro em SP/Brasil.
+- 👋 Olá, meu nome é Gustavo, tenho 19 anos e moro em SP/Brasil.
 - 👀 Eu me interesso por Desenvolvimento FullStack, minha meta é dominar um pouco de tudo.
 - 📚 Cursando ensino Análise e Desenvolvimento de Sistemas na Universidade Paulista.
 - 🌱 Desde que iniciei em Programação tenho estudado bastante HTML, CSS e JS. Pretendo dominar essas linguagens e futuramente PHP, Bootstrap e Python.
