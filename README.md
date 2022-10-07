@@ -1,8 +1,8 @@
 - 👋 Olá, meu nome é Gustavo, tenho 19 anos e moro em SP/Brasil.
 - 👀 Eu me interesso por Desenvolvimento FullStack, minha meta é dominar um pouco de tudo.
 - 📚 Cursando ensino Análise e Desenvolvimento de Sistemas na Universidade Paulista.
-- 🌱 Desde que iniciei em Programação tenho estudado bastante HTML, CSS e JS. Pretendo dominar essas linguagens e futuramente PHP, Bootstrap e Python.
-- 💞️ Procuro colaborar com a criação de Websites mais eficazes, rápidos, elegantes e fáceis de utilizar nas mãos dos usuários.
+- 🌱 Desde que iniciei em Programação tenho estudado bastante HTML, CSS e JS. Futuramente desejo dominar PHP, Java e Python.
+- 💞️ Procuro colaborar com a criação de Websites mais eficazes, rápidos, elegantes e acima de tudo funcionais.
 - 📫 Algumas redes minhas abaixo caso queira entrar em contato!
 - 📧 Email: gilsongustavo20003@hotmail.com
 - 💼 <a href="https://www.linkedin.com/in/gilson-gustavo-gimenez-oliveira-681234203/" target="_blank">Linkedin</a>
