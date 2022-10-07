@@ -4,7 +4,7 @@
 - 🌱 Desde que iniciei em Programação tenho estudado bastante HTML, CSS e JS. Futuramente desejo dominar PHP, Java e Python.
 - 💞️ Procuro colaborar com a criação de Websites mais eficazes, rápidos, elegantes e acima de tudo funcionais.
 - 📫 Algumas redes minhas abaixo caso queira entrar em contato!
-- 📧 Email: gilsongustavo20003@hotmail.com
+- 📧 <a href="gilsongustavo20003@hotmail.com" target="_blank">Email</a>
 - 💼 <a href="https://www.linkedin.com/in/gilson-gustavo-gimenez-oliveira-681234203/" target="_blank">Linkedin</a>
 - 📷 <a href="https://www.instagram.com/barryzin1337/" target="_blank">Instagram</a>
 
